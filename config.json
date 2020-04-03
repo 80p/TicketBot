@@ -1,0 +1,16 @@
+{
+    "token": "Njc3NjA1ODc4ODI3ODQzNjIz.XoNtcw.Wr-ZQB2uIS5GyfMLMAePV_DbpAA",
+    "prefix": "!",
+    "color": "#800000",
+    "name": "Hostile",
+    "error": "#FF0000",
+    "comment": "BELOW HERE IS ALL THE ROLES YOU CAN CONFIGURE!",
+    "a": "[Administrator]",
+    "b": "[Support]",
+    "c": "[Setup Specialist]",
+    "d": "[Bot Developer]",
+    "e": "[Web Developer]",
+    "f": "[Configurator]",
+    "g": "[Advertisers]",
+    "h": "[Graphics]"
+}
